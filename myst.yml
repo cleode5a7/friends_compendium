@@ -1,0 +1,29 @@
+version: 1
+
+parse:
+  myst_enable_extensions:
+    - html_image
+    - html_admonition
+    - html
+    - colon_fence
+
+project:
+  id: 673f7aa7-02af-451d-9ff6-b53020dac14a
+  keywords: []
+  authors: []
+  github: https://github.com/brainhack-school2025/analyses_friends_annotations
+site:
+  template: book-theme
+  nav:
+    - title: FRIENDS COMPENDIUM
+      url: https://www.youtube.com/watch?v=pOCbWX13AZM
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
+  logo: logo/friends_logo.png
+
+files:
+  - audio/*
+  - logo/*
+  - notebooks/*

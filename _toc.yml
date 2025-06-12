@@ -1,0 +1,9 @@
+format: jb-book
+root: paper.md
+chapters:
+  - file: content/group_manual_seg-Copy1
+    title: "🕰️ ALL ABOUT DURATIONS THE MANUAL SEGMENTATION DATA 🕰️"
+  - file: content/group_editing-Copy1
+    title: "🕰️ ALL ABOUT DURATIONS AND SEGMENTATION IN THE PYSCENE DATA 🕰️"  
+  - file: content/group_saliency-Copy1
+    title: "MACHINE GAZING🤖👁️‍🗨️✨"
