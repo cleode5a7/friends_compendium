@@ -1,0 +1,2387 @@
+Episode: friends_s01e01a
+Frame range: 1 to 26411
+Scene coverage: 1 to 26411
+Total frames: 26411
+Frames assigned after merge: 26411
+Frames dropped: 0
+
+Episode: friends_s01e01b
+Frame range: 1 to 26350
+Scene coverage: 1 to 26350
+Total frames: 26350
+Frames assigned after merge: 26350
+Frames dropped: 0
+
+Episode: friends_s01e02a
+Frame range: 1 to 21539
+Scene coverage: 1 to 21539
+Total frames: 21539
+Frames assigned after merge: 21539
+Frames dropped: 0
+
+Episode: friends_s01e02b
+Frame range: 1 to 21537
+Scene coverage: 1 to 21537
+Total frames: 21537
+Frames assigned after merge: 21537
+Frames dropped: 0
+
+Episode: friends_s01e03a
+Frame range: 1 to 21078
+Scene coverage: 1 to 21078
+Total frames: 21078
+Frames assigned after merge: 21078
+Frames dropped: 0
+
+Episode: friends_s01e03b
+Frame range: 1 to 21076
+Scene coverage: 1 to 21076
+Total frames: 21076
+Frames assigned after merge: 21076
+Frames dropped: 0
+
+Episode: friends_s01e04a
+Frame range: 1 to 22449
+Scene coverage: 1 to 22449
+Total frames: 22449
+Frames assigned after merge: 22449
+Frames dropped: 0
+
+Episode: friends_s01e04b
+Frame range: 1 to 22447
+Scene coverage: 1 to 22447
+Total frames: 22447
+Frames assigned after merge: 22447
+Frames dropped: 0
+
+Episode: friends_s01e05a
+Frame range: 1 to 20901
+Scene coverage: 1 to 20901
+Total frames: 20901
+Frames assigned after merge: 20901
+Frames dropped: 0
+
+Episode: friends_s01e05b
+Frame range: 1 to 20898
+Scene coverage: 1 to 20898
+Total frames: 20898
+Frames assigned after merge: 20898
+Frames dropped: 0
+
+Episode: friends_s01e06a
+Frame range: 1 to 21797
+Scene coverage: 1 to 21797
+Total frames: 21797
+Frames assigned after merge: 21797
+Frames dropped: 0
+
+Episode: friends_s01e06b
+Frame range: 1 to 21795
+Scene coverage: 1 to 21795
+Total frames: 21795
+Frames assigned after merge: 21795
+Frames dropped: 0
+
+Episode: friends_s01e07a
+Frame range: 1 to 22001
+Scene coverage: 1 to 22001
+Total frames: 22001
+Frames assigned after merge: 22001
+Frames dropped: 0
+
+Episode: friends_s01e07b
+Frame range: 1 to 21999
+Scene coverage: 1 to 21999
+Total frames: 21999
+Frames assigned after merge: 21999
+Frames dropped: 0
+
+Episode: friends_s01e08a
+Frame range: 1 to 21221
+Scene coverage: 1 to 21221
+Total frames: 21221
+Frames assigned after merge: 21221
+Frames dropped: 0
+
+Episode: friends_s01e08b
+Frame range: 1 to 21219
+Scene coverage: 1 to 21219
+Total frames: 21219
+Frames assigned after merge: 21219
+Frames dropped: 0
+
+Episode: friends_s01e09a
+Frame range: 1 to 20864
+Scene coverage: 1 to 20864
+Total frames: 20864
+Frames assigned after merge: 20864
+Frames dropped: 0
+
+Episode: friends_s01e09b
+Frame range: 1 to 20862
+Scene coverage: 1 to 20862
+Total frames: 20862
+Frames assigned after merge: 20862
+Frames dropped: 0
+
+Episode: friends_s01e10a
+Frame range: 1 to 22126
+Scene coverage: 1 to 22126
+Total frames: 22126
+Frames assigned after merge: 22126
+Frames dropped: 0
+
+Episode: friends_s01e10b
+Frame range: 1 to 22123
+Scene coverage: 1 to 22123
+Total frames: 22123
+Frames assigned after merge: 22123
+Frames dropped: 0
+
+Episode: friends_s01e11a
+Frame range: 1 to 21282
+Scene coverage: 1 to 21282
+Total frames: 21282
+Frames assigned after merge: 21282
+Frames dropped: 0
+
+Episode: friends_s01e11b
+Frame range: 1 to 21279
+Scene coverage: 1 to 21279
+Total frames: 21279
+Frames assigned after merge: 21279
+Frames dropped: 0
+
+Episode: friends_s01e12a
+Frame range: 1 to 21037
+Scene coverage: 1 to 21037
+Total frames: 21037
+Frames assigned after merge: 21037
+Frames dropped: 0
+
+Episode: friends_s01e12b
+Frame range: 1 to 21035
+Scene coverage: 1 to 21035
+Total frames: 21035
+Frames assigned after merge: 21035
+Frames dropped: 0
+
+Episode: friends_s01e13a
+Frame range: 1 to 20898
+Scene coverage: 1 to 20898
+Total frames: 20898
+Frames assigned after merge: 20898
+Frames dropped: 0
+
+Episode: friends_s01e13b
+Frame range: 1 to 20896
+Scene coverage: 1 to 20896
+Total frames: 20896
+Frames assigned after merge: 20896
+Frames dropped: 0
+
+Episode: friends_s01e14a
+Frame range: 1 to 21932
+Scene coverage: 1 to 21932
+Total frames: 21932
+Frames assigned after merge: 21932
+Frames dropped: 0
+
+Episode: friends_s01e14b
+Frame range: 1 to 21930
+Scene coverage: 1 to 21930
+Total frames: 21930
+Frames assigned after merge: 21930
+Frames dropped: 0
+
+Episode: friends_s01e15a
+Frame range: 1 to 21287
+Scene coverage: 1 to 21287
+Total frames: 21287
+Frames assigned after merge: 21287
+Frames dropped: 0
+
+Episode: friends_s01e15b
+Frame range: 1 to 21284
+Scene coverage: 1 to 21284
+Total frames: 21284
+Frames assigned after merge: 21284
+Frames dropped: 0
+
+Episode: friends_s01e16a
+Frame range: 1 to 21556
+Scene coverage: 1 to 21556
+Total frames: 21556
+Frames assigned after merge: 21556
+Frames dropped: 0
+
+Episode: friends_s01e16b
+Frame range: 1 to 21553
+Scene coverage: 1 to 21553
+Total frames: 21553
+Frames assigned after merge: 21553
+Frames dropped: 0
+
+Episode: friends_s01e17a
+Frame range: 1 to 21553
+Scene coverage: 1 to 21553
+Total frames: 21553
+Frames assigned after merge: 21553
+Frames dropped: 0
+
+Episode: friends_s01e17b
+Frame range: 1 to 21554
+Scene coverage: 1 to 21554
+Total frames: 21554
+Frames assigned after merge: 21554
+Frames dropped: 0
+
+Episode: friends_s01e18a
+Frame range: 1 to 22186
+Scene coverage: 1 to 22186
+Total frames: 22186
+Frames assigned after merge: 22186
+Frames dropped: 0
+
+Episode: friends_s01e18b
+Frame range: 1 to 22184
+Scene coverage: 1 to 22184
+Total frames: 22184
+Frames assigned after merge: 22184
+Frames dropped: 0
+
+Episode: friends_s01e19a
+Frame range: 1 to 20544
+Scene coverage: 1 to 20544
+Total frames: 20544
+Frames assigned after merge: 20544
+Frames dropped: 0
+
+Episode: friends_s01e19b
+Frame range: 1 to 20542
+Scene coverage: 1 to 20542
+Total frames: 20542
+Frames assigned after merge: 20542
+Frames dropped: 0
+
+Episode: friends_s01e20a
+Frame range: 1 to 20544
+Scene coverage: 1 to 20544
+Total frames: 20544
+Frames assigned after merge: 20544
+Frames dropped: 0
+
+Episode: friends_s01e20b
+Frame range: 1 to 20542
+Scene coverage: 1 to 20542
+Total frames: 20542
+Frames assigned after merge: 20542
+Frames dropped: 0
+
+Episode: friends_s01e21a
+Frame range: 1 to 21294
+Scene coverage: 1 to 21294
+Total frames: 21294
+Frames assigned after merge: 21294
+Frames dropped: 0
+
+Episode: friends_s01e21b
+Frame range: 1 to 21292
+Scene coverage: 1 to 21292
+Total frames: 21292
+Frames assigned after merge: 21292
+Frames dropped: 0
+
+Episode: friends_s01e22a
+Frame range: 1 to 21158
+Scene coverage: 1 to 21158
+Total frames: 21158
+Frames assigned after merge: 21158
+Frames dropped: 0
+
+Episode: friends_s01e22b
+Frame range: 1 to 21156
+Scene coverage: 1 to 21156
+Total frames: 21156
+Frames assigned after merge: 21156
+Frames dropped: 0
+
+Episode: friends_s01e23a
+Frame range: 1 to 20604
+Scene coverage: 1 to 20604
+Total frames: 20604
+Frames assigned after merge: 20604
+Frames dropped: 0
+
+Episode: friends_s01e23b
+Frame range: 1 to 20602
+Scene coverage: 1 to 20602
+Total frames: 20602
+Frames assigned after merge: 20602
+Frames dropped: 0
+
+Episode: friends_s01e24a
+Frame range: 1 to 22974
+Scene coverage: 1 to 22974
+Total frames: 22974
+Frames assigned after merge: 22974
+Frames dropped: 0
+
+Episode: friends_s01e24b
+Frame range: 1 to 22972
+Scene coverage: 1 to 22972
+Total frames: 22972
+Frames assigned after merge: 22972
+Frames dropped: 0
+
+Episode: friends_s02e01a
+Frame range: 1 to 21279
+Scene coverage: 1 to 21279
+Total frames: 21279
+Frames assigned after merge: 21279
+Frames dropped: 0
+
+Episode: friends_s02e01b
+Frame range: 1 to 21277
+Scene coverage: 1 to 21277
+Total frames: 21277
+Frames assigned after merge: 21277
+Frames dropped: 0
+
+Episode: friends_s02e02a
+Frame range: 1 to 20101
+Scene coverage: 1 to 20101
+Total frames: 20101
+Frames assigned after merge: 20101
+Frames dropped: 0
+
+Episode: friends_s02e02b
+Frame range: 1 to 20098
+Scene coverage: 1 to 20098
+Total frames: 20098
+Frames assigned after merge: 20098
+Frames dropped: 0
+
+Episode: friends_s02e03a
+Frame range: 1 to 20724
+Scene coverage: 1 to 20724
+Total frames: 20724
+Frames assigned after merge: 20724
+Frames dropped: 0
+
+Episode: friends_s02e03b
+Frame range: 1 to 20722
+Scene coverage: 1 to 20722
+Total frames: 20722
+Frames assigned after merge: 20722
+Frames dropped: 0
+
+Episode: friends_s02e04a
+Frame range: 1 to 20259
+Scene coverage: 1 to 20259
+Total frames: 20259
+Frames assigned after merge: 20259
+Frames dropped: 0
+
+Episode: friends_s02e04b
+Frame range: 1 to 20257
+Scene coverage: 1 to 20257
+Total frames: 20257
+Frames assigned after merge: 20257
+Frames dropped: 0
+
+Episode: friends_s02e05a
+Frame range: 1 to 20309
+Scene coverage: 1 to 20309
+Total frames: 20309
+Frames assigned after merge: 20309
+Frames dropped: 0
+
+Episode: friends_s02e05b
+Frame range: 1 to 20307
+Scene coverage: 1 to 20307
+Total frames: 20307
+Frames assigned after merge: 20307
+Frames dropped: 0
+
+Episode: friends_s02e06a
+Frame range: 1 to 22314
+Scene coverage: 1 to 22314
+Total frames: 22314
+Frames assigned after merge: 22314
+Frames dropped: 0
+
+Episode: friends_s02e06b
+Frame range: 1 to 22312
+Scene coverage: 1 to 22312
+Total frames: 22312
+Frames assigned after merge: 22312
+Frames dropped: 0
+
+Episode: friends_s02e07a
+Frame range: 1 to 22122
+Scene coverage: 1 to 22122
+Total frames: 22122
+Frames assigned after merge: 22122
+Frames dropped: 0
+
+Episode: friends_s02e07b
+Frame range: 1 to 22119
+Scene coverage: 1 to 22119
+Total frames: 22119
+Frames assigned after merge: 22119
+Frames dropped: 0
+
+Episode: friends_s02e08a
+Frame range: 1 to 20409
+Scene coverage: 1 to 20409
+Total frames: 20409
+Frames assigned after merge: 20409
+Frames dropped: 0
+
+Episode: friends_s02e08b
+Frame range: 1 to 20407
+Scene coverage: 1 to 20407
+Total frames: 20407
+Frames assigned after merge: 20407
+Frames dropped: 0
+
+Episode: friends_s02e09a
+Frame range: 1 to 20154
+Scene coverage: 1 to 20154
+Total frames: 20154
+Frames assigned after merge: 20154
+Frames dropped: 0
+
+Episode: friends_s02e09b
+Frame range: 1 to 20152
+Scene coverage: 1 to 20152
+Total frames: 20152
+Frames assigned after merge: 20152
+Frames dropped: 0
+
+Episode: friends_s02e10a
+Frame range: 1 to 21384
+Scene coverage: 1 to 21384
+Total frames: 21384
+Frames assigned after merge: 21384
+Frames dropped: 0
+
+Episode: friends_s02e10b
+Frame range: 1 to 21382
+Scene coverage: 1 to 21382
+Total frames: 21382
+Frames assigned after merge: 21382
+Frames dropped: 0
+
+Episode: friends_s02e11a
+Frame range: 1 to 21774
+Scene coverage: 1 to 21774
+Total frames: 21774
+Frames assigned after merge: 21774
+Frames dropped: 0
+
+Episode: friends_s02e11b
+Frame range: 1 to 21772
+Scene coverage: 1 to 21772
+Total frames: 21772
+Frames assigned after merge: 21772
+Frames dropped: 0
+
+Episode: friends_s02e12a
+Frame range: 1 to 21795
+Scene coverage: 1 to 21795
+Total frames: 21795
+Frames assigned after merge: 21795
+Frames dropped: 0
+
+Episode: friends_s02e12b
+Frame range: 1 to 21792
+Scene coverage: 1 to 21792
+Total frames: 21792
+Frames assigned after merge: 21792
+Frames dropped: 0
+
+Episode: friends_s02e13a
+Frame range: 1 to 21792
+Scene coverage: 1 to 21792
+Total frames: 21792
+Frames assigned after merge: 21792
+Frames dropped: 0
+
+Episode: friends_s02e13b
+Frame range: 1 to 21793
+Scene coverage: 1 to 21793
+Total frames: 21793
+Frames assigned after merge: 21793
+Frames dropped: 0
+
+Episode: friends_s02e14a
+Frame range: 1 to 21144
+Scene coverage: 1 to 21144
+Total frames: 21144
+Frames assigned after merge: 21144
+Frames dropped: 0
+
+Episode: friends_s02e14b
+Frame range: 1 to 21142
+Scene coverage: 1 to 21142
+Total frames: 21142
+Frames assigned after merge: 21142
+Frames dropped: 0
+
+Episode: friends_s02e15a
+Frame range: 1 to 20784
+Scene coverage: 1 to 20784
+Total frames: 20784
+Frames assigned after merge: 20784
+Frames dropped: 0
+
+Episode: friends_s02e15b
+Frame range: 1 to 20782
+Scene coverage: 1 to 20782
+Total frames: 20782
+Frames assigned after merge: 20782
+Frames dropped: 0
+
+Episode: friends_s02e16a
+Frame range: 1 to 21329
+Scene coverage: 1 to 21329
+Total frames: 21329
+Frames assigned after merge: 21329
+Frames dropped: 0
+
+Episode: friends_s02e16b
+Frame range: 1 to 21327
+Scene coverage: 1 to 21327
+Total frames: 21327
+Frames assigned after merge: 21327
+Frames dropped: 0
+
+Episode: friends_s02e17a
+Frame range: 1 to 21819
+Scene coverage: 1 to 21819
+Total frames: 21819
+Frames assigned after merge: 21819
+Frames dropped: 0
+
+Episode: friends_s02e17b
+Frame range: 1 to 21817
+Scene coverage: 1 to 21817
+Total frames: 21817
+Frames assigned after merge: 21817
+Frames dropped: 0
+
+Episode: friends_s02e18a
+Frame range: 1 to 20514
+Scene coverage: 1 to 20514
+Total frames: 20514
+Frames assigned after merge: 20514
+Frames dropped: 0
+
+Episode: friends_s02e18b
+Frame range: 1 to 20512
+Scene coverage: 1 to 20512
+Total frames: 20512
+Frames assigned after merge: 20512
+Frames dropped: 0
+
+Episode: friends_s02e19a
+Frame range: 1 to 21309
+Scene coverage: 1 to 21309
+Total frames: 21309
+Frames assigned after merge: 21309
+Frames dropped: 0
+
+Episode: friends_s02e19b
+Frame range: 1 to 21307
+Scene coverage: 1 to 21307
+Total frames: 21307
+Frames assigned after merge: 21307
+Frames dropped: 0
+
+Episode: friends_s02e20a
+Frame range: 1 to 20049
+Scene coverage: 1 to 20049
+Total frames: 20049
+Frames assigned after merge: 20049
+Frames dropped: 0
+
+Episode: friends_s02e20b
+Frame range: 1 to 20047
+Scene coverage: 1 to 20047
+Total frames: 20047
+Frames assigned after merge: 20047
+Frames dropped: 0
+
+Episode: friends_s02e21a
+Frame range: 1 to 20979
+Scene coverage: 1 to 20979
+Total frames: 20979
+Frames assigned after merge: 20979
+Frames dropped: 0
+
+Episode: friends_s02e21b
+Frame range: 1 to 20977
+Scene coverage: 1 to 20977
+Total frames: 20977
+Frames assigned after merge: 20977
+Frames dropped: 0
+
+Episode: friends_s02e22a
+Frame range: 1 to 20214
+Scene coverage: 1 to 20214
+Total frames: 20214
+Frames assigned after merge: 20214
+Frames dropped: 0
+
+Episode: friends_s02e22b
+Frame range: 1 to 20212
+Scene coverage: 1 to 20212
+Total frames: 20212
+Frames assigned after merge: 20212
+Frames dropped: 0
+
+Episode: friends_s02e23a
+Frame range: 1 to 20334
+Scene coverage: 1 to 20334
+Total frames: 20334
+Frames assigned after merge: 20334
+Frames dropped: 0
+
+Episode: friends_s02e23b
+Frame range: 1 to 20332
+Scene coverage: 1 to 20332
+Total frames: 20332
+Frames assigned after merge: 20332
+Frames dropped: 0
+
+Episode: friends_s02e24a
+Frame range: 1 to 20919
+Scene coverage: 1 to 20919
+Total frames: 20919
+Frames assigned after merge: 20919
+Frames dropped: 0
+
+Episode: friends_s02e24b
+Frame range: 1 to 20917
+Scene coverage: 1 to 20917
+Total frames: 20917
+Frames assigned after merge: 20917
+Frames dropped: 0
+
+Episode: friends_s03e01a
+Frame range: 1 to 21911
+Scene coverage: 1 to 21911
+Total frames: 21911
+Frames assigned after merge: 21911
+Frames dropped: 0
+
+Episode: friends_s03e01b
+Frame range: 1 to 21909
+Scene coverage: 1 to 21909
+Total frames: 21909
+Frames assigned after merge: 21909
+Frames dropped: 0
+
+Episode: friends_s03e02a
+Frame range: 1 to 21189
+Scene coverage: 1 to 21189
+Total frames: 21189
+Frames assigned after merge: 21189
+Frames dropped: 0
+
+Episode: friends_s03e02b
+Frame range: 1 to 21187
+Scene coverage: 1 to 21187
+Total frames: 21187
+Frames assigned after merge: 21187
+Frames dropped: 0
+
+Episode: friends_s03e03a
+Frame range: 1 to 20235
+Scene coverage: 1 to 20235
+Total frames: 20235
+Frames assigned after merge: 20235
+Frames dropped: 0
+
+Episode: friends_s03e03b
+Frame range: 1 to 20232
+Scene coverage: 1 to 20232
+Total frames: 20232
+Frames assigned after merge: 20232
+Frames dropped: 0
+
+Episode: friends_s03e04a
+Frame range: 1 to 21123
+Scene coverage: 1 to 21123
+Total frames: 21123
+Frames assigned after merge: 21123
+Frames dropped: 0
+
+Episode: friends_s03e04b
+Frame range: 1 to 21120
+Scene coverage: 1 to 21120
+Total frames: 21120
+Frames assigned after merge: 21120
+Frames dropped: 0
+
+Episode: friends_s03e05a
+Frame range: 1 to 21610
+Scene coverage: 1 to 21610
+Total frames: 21610
+Frames assigned after merge: 21610
+Frames dropped: 0
+
+Episode: friends_s03e05b
+Frame range: 1 to 21608
+Scene coverage: 1 to 21608
+Total frames: 21608
+Frames assigned after merge: 21608
+Frames dropped: 0
+
+Episode: friends_s03e06a
+Frame range: 1 to 20950
+Scene coverage: 1 to 20950
+Total frames: 20950
+Frames assigned after merge: 20950
+Frames dropped: 0
+
+Episode: friends_s03e06b
+Frame range: 1 to 20947
+Scene coverage: 1 to 20947
+Total frames: 20947
+Frames assigned after merge: 20947
+Frames dropped: 0
+
+Episode: friends_s03e07a
+Frame range: 1 to 20844
+Scene coverage: 1 to 20844
+Total frames: 20844
+Frames assigned after merge: 20844
+Frames dropped: 0
+
+Episode: friends_s03e07b
+Frame range: 1 to 20841
+Scene coverage: 1 to 20841
+Total frames: 20841
+Frames assigned after merge: 20841
+Frames dropped: 0
+
+Episode: friends_s03e08a
+Frame range: 1 to 20522
+Scene coverage: 1 to 20522
+Total frames: 20522
+Frames assigned after merge: 20522
+Frames dropped: 0
+
+Episode: friends_s03e08b
+Frame range: 1 to 20520
+Scene coverage: 1 to 20520
+Total frames: 20520
+Frames assigned after merge: 20520
+Frames dropped: 0
+
+Episode: friends_s03e09a
+Frame range: 1 to 22000
+Scene coverage: 1 to 22000
+Total frames: 22000
+Frames assigned after merge: 22000
+Frames dropped: 0
+
+Episode: friends_s03e09b
+Frame range: 1 to 21997
+Scene coverage: 1 to 21997
+Total frames: 21997
+Frames assigned after merge: 21997
+Frames dropped: 0
+
+Episode: friends_s03e10a
+Frame range: 1 to 20129
+Scene coverage: 1 to 20129
+Total frames: 20129
+Frames assigned after merge: 20129
+Frames dropped: 0
+
+Episode: friends_s03e10b
+Frame range: 1 to 20126
+Scene coverage: 1 to 20126
+Total frames: 20126
+Frames assigned after merge: 20126
+Frames dropped: 0
+
+Episode: friends_s03e11a
+Frame range: 1 to 20380
+Scene coverage: 1 to 20380
+Total frames: 20380
+Frames assigned after merge: 20380
+Frames dropped: 0
+
+Episode: friends_s03e11b
+Frame range: 1 to 20377
+Scene coverage: 1 to 20377
+Total frames: 20377
+Frames assigned after merge: 20377
+Frames dropped: 0
+
+Episode: friends_s03e12a
+Frame range: 1 to 20709
+Scene coverage: 1 to 20709
+Total frames: 20709
+Frames assigned after merge: 20709
+Frames dropped: 0
+
+Episode: friends_s03e12b
+Frame range: 1 to 20707
+Scene coverage: 1 to 20707
+Total frames: 20707
+Frames assigned after merge: 20707
+Frames dropped: 0
+
+Episode: friends_s03e13a
+Frame range: 1 to 21127
+Scene coverage: 1 to 21127
+Total frames: 21127
+Frames assigned after merge: 21127
+Frames dropped: 0
+
+Episode: friends_s03e13b
+Frame range: 1 to 21124
+Scene coverage: 1 to 21124
+Total frames: 21124
+Frames assigned after merge: 21124
+Frames dropped: 0
+
+Episode: friends_s03e14a
+Frame range: 1 to 20455
+Scene coverage: 1 to 20455
+Total frames: 20455
+Frames assigned after merge: 20455
+Frames dropped: 0
+
+Episode: friends_s03e14b
+Frame range: 1 to 20453
+Scene coverage: 1 to 20453
+Total frames: 20453
+Frames assigned after merge: 20453
+Frames dropped: 0
+
+Episode: friends_s03e15a
+Frame range: 1 to 20438
+Scene coverage: 1 to 20438
+Total frames: 20438
+Frames assigned after merge: 20438
+Frames dropped: 0
+
+Episode: friends_s03e15b
+Frame range: 1 to 20435
+Scene coverage: 1 to 20435
+Total frames: 20435
+Frames assigned after merge: 20435
+Frames dropped: 0
+
+Episode: friends_s03e16a
+Frame range: 1 to 20889
+Scene coverage: 1 to 20889
+Total frames: 20889
+Frames assigned after merge: 20889
+Frames dropped: 0
+
+Episode: friends_s03e16b
+Frame range: 1 to 20887
+Scene coverage: 1 to 20887
+Total frames: 20887
+Frames assigned after merge: 20887
+Frames dropped: 0
+
+Episode: friends_s03e17a
+Frame range: 1 to 20230
+Scene coverage: 1 to 20230
+Total frames: 20230
+Frames assigned after merge: 20230
+Frames dropped: 0
+
+Episode: friends_s03e17b
+Frame range: 1 to 20227
+Scene coverage: 1 to 20227
+Total frames: 20227
+Frames assigned after merge: 20227
+Frames dropped: 0
+
+Episode: friends_s03e18a
+Frame range: 1 to 20941
+Scene coverage: 1 to 20941
+Total frames: 20941
+Frames assigned after merge: 20941
+Frames dropped: 0
+
+Episode: friends_s03e18b
+Frame range: 1 to 20939
+Scene coverage: 1 to 20939
+Total frames: 20939
+Frames assigned after merge: 20939
+Frames dropped: 0
+
+Episode: friends_s03e19a
+Frame range: 1 to 20907
+Scene coverage: 1 to 20907
+Total frames: 20907
+Frames assigned after merge: 20907
+Frames dropped: 0
+
+Episode: friends_s03e19b
+Frame range: 1 to 20905
+Scene coverage: 1 to 20905
+Total frames: 20905
+Frames assigned after merge: 20905
+Frames dropped: 0
+
+Episode: friends_s03e20a
+Frame range: 1 to 20693
+Scene coverage: 1 to 20693
+Total frames: 20693
+Frames assigned after merge: 20693
+Frames dropped: 0
+
+Episode: friends_s03e20b
+Frame range: 1 to 20690
+Scene coverage: 1 to 20690
+Total frames: 20690
+Frames assigned after merge: 20690
+Frames dropped: 0
+
+Episode: friends_s03e21a
+Frame range: 1 to 20537
+Scene coverage: 1 to 20537
+Total frames: 20537
+Frames assigned after merge: 20537
+Frames dropped: 0
+
+Episode: friends_s03e21b
+Frame range: 1 to 20535
+Scene coverage: 1 to 20535
+Total frames: 20535
+Frames assigned after merge: 20535
+Frames dropped: 0
+
+Episode: friends_s03e22a
+Frame range: 1 to 20659
+Scene coverage: 1 to 20659
+Total frames: 20659
+Frames assigned after merge: 20659
+Frames dropped: 0
+
+Episode: friends_s03e22b
+Frame range: 1 to 20657
+Scene coverage: 1 to 20657
+Total frames: 20657
+Frames assigned after merge: 20657
+Frames dropped: 0
+
+Episode: friends_s03e23a
+Frame range: 1 to 20951
+Scene coverage: 1 to 20951
+Total frames: 20951
+Frames assigned after merge: 20951
+Frames dropped: 0
+
+Episode: friends_s03e23b
+Frame range: 1 to 20948
+Scene coverage: 1 to 20948
+Total frames: 20948
+Frames assigned after merge: 20948
+Frames dropped: 0
+
+Episode: friends_s03e24a
+Frame range: 1 to 20265
+Scene coverage: 1 to 20265
+Total frames: 20265
+Frames assigned after merge: 20265
+Frames dropped: 0
+
+Episode: friends_s03e24b
+Frame range: 1 to 20262
+Scene coverage: 1 to 20262
+Total frames: 20262
+Frames assigned after merge: 20262
+Frames dropped: 0
+
+Episode: friends_s03e25a
+Frame range: 1 to 21379
+Scene coverage: 1 to 21379
+Total frames: 21379
+Frames assigned after merge: 21379
+Frames dropped: 0
+
+Episode: friends_s03e25b
+Frame range: 1 to 21376
+Scene coverage: 1 to 21376
+Total frames: 21376
+Frames assigned after merge: 21376
+Frames dropped: 0
+
+Episode: friends_s04e01a
+Frame range: 1 to 676
+Scene coverage: 1 to 20616
+Total frames: 676
+Frames assigned after merge: 676
+Frames dropped: 0
+
+Episode: friends_s04e01b
+Frame range: 1 to 20858
+Scene coverage: 1 to 20858
+Total frames: 20858
+Frames assigned after merge: 20858
+Frames dropped: 0
+
+Episode: friends_s04e02a
+Frame range: 1 to 21341
+Scene coverage: 1 to 21341
+Total frames: 21341
+Frames assigned after merge: 21341
+Frames dropped: 0
+
+Episode: friends_s04e02b
+Frame range: 1 to 21339
+Scene coverage: 1 to 21339
+Total frames: 21339
+Frames assigned after merge: 21339
+Frames dropped: 0
+
+Episode: friends_s04e03a
+Frame range: 1 to 19842
+Scene coverage: 1 to 19842
+Total frames: 19842
+Frames assigned after merge: 19842
+Frames dropped: 0
+
+Episode: friends_s04e03b
+Frame range: 1 to 19839
+Scene coverage: 1 to 19839
+Total frames: 19839
+Frames assigned after merge: 19839
+Frames dropped: 0
+
+Episode: friends_s04e04a
+Frame range: 1 to 20220
+Scene coverage: 1 to 20220
+Total frames: 20220
+Frames assigned after merge: 20220
+Frames dropped: 0
+
+Episode: friends_s04e04b
+Frame range: 1 to 20217
+Scene coverage: 1 to 20217
+Total frames: 20217
+Frames assigned after merge: 20217
+Frames dropped: 0
+
+Episode: friends_s04e05a
+Frame range: 1 to 21017
+Scene coverage: 1 to 21017
+Total frames: 21017
+Frames assigned after merge: 21017
+Frames dropped: 0
+
+Episode: friends_s04e05b
+Frame range: 1 to 21015
+Scene coverage: 1 to 21015
+Total frames: 21015
+Frames assigned after merge: 21015
+Frames dropped: 0
+
+Episode: friends_s04e06a
+Frame range: 1 to 20752
+Scene coverage: 1 to 20752
+Total frames: 20752
+Frames assigned after merge: 20752
+Frames dropped: 0
+
+Episode: friends_s04e06b
+Frame range: 1 to 20749
+Scene coverage: 1 to 20749
+Total frames: 20749
+Frames assigned after merge: 20749
+Frames dropped: 0
+
+Episode: friends_s04e07a
+Frame range: 1 to 22194
+Scene coverage: 1 to 22194
+Total frames: 22194
+Frames assigned after merge: 22194
+Frames dropped: 0
+
+Episode: friends_s04e07b
+Frame range: 1 to 22191
+Scene coverage: 1 to 22191
+Total frames: 22191
+Frames assigned after merge: 22191
+Frames dropped: 0
+
+Episode: friends_s04e08a
+Frame range: 1 to 22434
+Scene coverage: 1 to 22434
+Total frames: 22434
+Frames assigned after merge: 22434
+Frames dropped: 0
+
+Episode: friends_s04e08b
+Frame range: 1 to 22431
+Scene coverage: 1 to 22431
+Total frames: 22431
+Frames assigned after merge: 22431
+Frames dropped: 0
+
+Episode: friends_s04e09a
+Frame range: 1 to 19667
+Scene coverage: 1 to 19667
+Total frames: 19667
+Frames assigned after merge: 19667
+Frames dropped: 0
+
+Episode: friends_s04e09b
+Frame range: 1 to 19665
+Scene coverage: 1 to 19665
+Total frames: 19665
+Frames assigned after merge: 19665
+Frames dropped: 0
+
+Episode: friends_s04e10a
+Frame range: 1 to 20022
+Scene coverage: 1 to 20022
+Total frames: 20022
+Frames assigned after merge: 20022
+Frames dropped: 0
+
+Episode: friends_s04e10b
+Frame range: 1 to 20019
+Scene coverage: 1 to 20019
+Total frames: 20019
+Frames assigned after merge: 20019
+Frames dropped: 0
+
+Episode: friends_s04e11a
+Frame range: 1 to 21554
+Scene coverage: 1 to 21554
+Total frames: 21554
+Frames assigned after merge: 21554
+Frames dropped: 0
+
+Episode: friends_s04e11b
+Frame range: 1 to 21551
+Scene coverage: 1 to 21551
+Total frames: 21551
+Frames assigned after merge: 21551
+Frames dropped: 0
+
+Episode: friends_s04e12a
+Frame range: 1 to 20776
+Scene coverage: 1 to 20776
+Total frames: 20776
+Frames assigned after merge: 20776
+Frames dropped: 0
+
+Episode: friends_s04e12b
+Frame range: 1 to 20774
+Scene coverage: 1 to 20774
+Total frames: 20774
+Frames assigned after merge: 20774
+Frames dropped: 0
+
+Episode: friends_s04e13a
+Frame range: 1 to 20009
+Scene coverage: 1 to 20009
+Total frames: 20009
+Frames assigned after merge: 20009
+Frames dropped: 0
+
+Episode: friends_s04e13b
+Frame range: 1 to 20006
+Scene coverage: 1 to 20006
+Total frames: 20006
+Frames assigned after merge: 20006
+Frames dropped: 0
+
+Episode: friends_s04e14a
+Frame range: 1 to 19929
+Scene coverage: 1 to 19929
+Total frames: 19929
+Frames assigned after merge: 19929
+Frames dropped: 0
+
+Episode: friends_s04e14b
+Frame range: 1 to 19926
+Scene coverage: 1 to 19926
+Total frames: 19926
+Frames assigned after merge: 19926
+Frames dropped: 0
+
+Episode: friends_s04e15a
+Frame range: 1 to 19824
+Scene coverage: 1 to 19824
+Total frames: 19824
+Frames assigned after merge: 19824
+Frames dropped: 0
+
+Episode: friends_s04e15b
+Frame range: 1 to 19821
+Scene coverage: 1 to 19821
+Total frames: 19821
+Frames assigned after merge: 19821
+Frames dropped: 0
+
+Episode: friends_s04e16a
+Frame range: 1 to 21739
+Scene coverage: 1 to 21739
+Total frames: 21739
+Frames assigned after merge: 21739
+Frames dropped: 0
+
+Episode: friends_s04e16b
+Frame range: 1 to 21736
+Scene coverage: 1 to 21736
+Total frames: 21736
+Frames assigned after merge: 21736
+Frames dropped: 0
+
+Episode: friends_s04e17a
+Frame range: 1 to 21338
+Scene coverage: 1 to 21338
+Total frames: 21338
+Frames assigned after merge: 21338
+Frames dropped: 0
+
+Episode: friends_s04e17b
+Frame range: 1 to 21335
+Scene coverage: 1 to 21335
+Total frames: 21335
+Frames assigned after merge: 21335
+Frames dropped: 0
+
+Episode: friends_s04e18a
+Frame range: 1 to 20086
+Scene coverage: 1 to 20086
+Total frames: 20086
+Frames assigned after merge: 20086
+Frames dropped: 0
+
+Episode: friends_s04e18b
+Frame range: 1 to 20084
+Scene coverage: 1 to 20084
+Total frames: 20084
+Frames assigned after merge: 20084
+Frames dropped: 0
+
+Episode: friends_s04e19a
+Frame range: 1 to 19524
+Scene coverage: 1 to 19524
+Total frames: 19524
+Frames assigned after merge: 19524
+Frames dropped: 0
+
+Episode: friends_s04e19b
+Frame range: 1 to 19521
+Scene coverage: 1 to 19521
+Total frames: 19521
+Frames assigned after merge: 19521
+Frames dropped: 0
+
+Episode: friends_s04e20a
+Frame range: 1 to 19987
+Scene coverage: 1 to 19987
+Total frames: 19987
+Frames assigned after merge: 19987
+Frames dropped: 0
+
+Episode: friends_s04e20b
+Frame range: 1 to 19984
+Scene coverage: 1 to 19984
+Total frames: 19984
+Frames assigned after merge: 19984
+Frames dropped: 0
+
+Episode: friends_s04e21a
+Frame range: 1 to 19989
+Scene coverage: 1 to 19989
+Total frames: 19989
+Frames assigned after merge: 19989
+Frames dropped: 0
+
+Episode: friends_s04e21b
+Frame range: 1 to 19986
+Scene coverage: 1 to 19986
+Total frames: 19986
+Frames assigned after merge: 19986
+Frames dropped: 0
+
+Episode: friends_s04e22a
+Frame range: 1 to 20488
+Scene coverage: 1 to 20488
+Total frames: 20488
+Frames assigned after merge: 20488
+Frames dropped: 0
+
+Episode: friends_s04e22b
+Frame range: 1 to 20485
+Scene coverage: 1 to 20485
+Total frames: 20485
+Frames assigned after merge: 20485
+Frames dropped: 0
+
+Episode: friends_s04e23a
+Frame range: 1 to 22488
+Scene coverage: 1 to 22488
+Total frames: 22488
+Frames assigned after merge: 22488
+Frames dropped: 0
+
+Episode: friends_s04e23b
+Frame range: 1 to 22486
+Scene coverage: 1 to 22486
+Total frames: 22486
+Frames assigned after merge: 22486
+Frames dropped: 0
+
+Episode: friends_s04e23c
+Frame range: 1 to 22486
+Scene coverage: nan to nan
+Total frames: 22486
+Frames assigned after merge: 0
+Frames dropped: 22486
+
+Episode: friends_s04e23d
+Frame range: 1 to 22486
+Scene coverage: nan to nan
+Total frames: 22486
+Frames assigned after merge: 0
+Frames dropped: 22486
+
+Episode: friends_s05e01a
+Frame range: 1 to 18792
+Scene coverage: 1 to 18792
+Total frames: 18792
+Frames assigned after merge: 18792
+Frames dropped: 0
+
+Episode: friends_s05e01b
+Frame range: 1 to 20316
+Scene coverage: 1 to 20316
+Total frames: 20316
+Frames assigned after merge: 20316
+Frames dropped: 0
+
+Episode: friends_s05e02a
+Frame range: 1 to 21209
+Scene coverage: 1 to 21209
+Total frames: 21209
+Frames assigned after merge: 21209
+Frames dropped: 0
+
+Episode: friends_s05e02b
+Frame range: 1 to 22732
+Scene coverage: 1 to 22732
+Total frames: 22732
+Frames assigned after merge: 22732
+Frames dropped: 0
+
+Episode: friends_s05e03a
+Frame range: 1 to 19815
+Scene coverage: 1 to 19815
+Total frames: 19815
+Frames assigned after merge: 19815
+Frames dropped: 0
+
+Episode: friends_s05e03b
+Frame range: 1 to 21155
+Scene coverage: 1 to 21155
+Total frames: 21155
+Frames assigned after merge: 21155
+Frames dropped: 0
+
+Episode: friends_s05e04a
+Frame range: 1 to 20908
+Scene coverage: 1 to 20908
+Total frames: 20908
+Frames assigned after merge: 20908
+Frames dropped: 0
+
+Episode: friends_s05e04b
+Frame range: 1 to 22431
+Scene coverage: 1 to 22431
+Total frames: 22431
+Frames assigned after merge: 22431
+Frames dropped: 0
+
+Episode: friends_s05e05a
+Frame range: 1 to 21722
+Scene coverage: 1 to 21722
+Total frames: 21722
+Frames assigned after merge: 21722
+Frames dropped: 0
+
+Episode: friends_s05e05b
+Frame range: 1 to 23245
+Scene coverage: 1 to 23245
+Total frames: 23245
+Frames assigned after merge: 23245
+Frames dropped: 0
+
+Episode: friends_s05e06a
+Frame range: 1 to 20477
+Scene coverage: 1 to 20477
+Total frames: 20477
+Frames assigned after merge: 20477
+Frames dropped: 0
+
+Episode: friends_s05e06b
+Frame range: 1 to 22000
+Scene coverage: 1 to 22000
+Total frames: 22000
+Frames assigned after merge: 22000
+Frames dropped: 0
+
+Episode: friends_s05e07a
+Frame range: 1 to 20486
+Scene coverage: 1 to 20486
+Total frames: 20486
+Frames assigned after merge: 20486
+Frames dropped: 0
+
+Episode: friends_s05e07b
+Frame range: 1 to 22010
+Scene coverage: 1 to 22010
+Total frames: 22010
+Frames assigned after merge: 22010
+Frames dropped: 0
+
+Episode: friends_s05e08a
+Frame range: 1 to 19912
+Scene coverage: 1 to 19912
+Total frames: 19912
+Frames assigned after merge: 19912
+Frames dropped: 0
+
+Episode: friends_s05e08b
+Frame range: 1 to 21435
+Scene coverage: 1 to 21435
+Total frames: 21435
+Frames assigned after merge: 21435
+Frames dropped: 0
+
+Episode: friends_s05e09a
+Frame range: 1 to 20347
+Scene coverage: 1 to 20347
+Total frames: 20347
+Frames assigned after merge: 20347
+Frames dropped: 0
+
+Episode: friends_s05e09b
+Frame range: 1 to 21871
+Scene coverage: 1 to 21871
+Total frames: 21871
+Frames assigned after merge: 21871
+Frames dropped: 0
+
+Episode: friends_s05e10a
+Frame range: 1 to 20088
+Scene coverage: 1 to 20088
+Total frames: 20088
+Frames assigned after merge: 20088
+Frames dropped: 0
+
+Episode: friends_s05e10b
+Frame range: 1 to 21612
+Scene coverage: 1 to 21612
+Total frames: 21612
+Frames assigned after merge: 21612
+Frames dropped: 0
+
+Episode: friends_s05e11a
+Frame range: 1 to 21263
+Scene coverage: 1 to 21263
+Total frames: 21263
+Frames assigned after merge: 21263
+Frames dropped: 0
+
+Episode: friends_s05e11b
+Frame range: 1 to 22787
+Scene coverage: 1 to 22787
+Total frames: 22787
+Frames assigned after merge: 22787
+Frames dropped: 0
+
+Episode: friends_s05e12a
+Frame range: 1 to 19892
+Scene coverage: 1 to 19892
+Total frames: 19892
+Frames assigned after merge: 19892
+Frames dropped: 0
+
+Episode: friends_s05e12b
+Frame range: 1 to 21415
+Scene coverage: 1 to 21415
+Total frames: 21415
+Frames assigned after merge: 21415
+Frames dropped: 0
+
+Episode: friends_s05e13a
+Frame range: 1 to 20513
+Scene coverage: 1 to 20513
+Total frames: 20513
+Frames assigned after merge: 20513
+Frames dropped: 0
+
+Episode: friends_s05e13b
+Frame range: 1 to 22036
+Scene coverage: 1 to 22036
+Total frames: 22036
+Frames assigned after merge: 22036
+Frames dropped: 0
+
+Episode: friends_s05e14a
+Frame range: 1 to 21680
+Scene coverage: 1 to 21680
+Total frames: 21680
+Frames assigned after merge: 21680
+Frames dropped: 0
+
+Episode: friends_s05e14b
+Frame range: 1 to 23204
+Scene coverage: 1 to 23204
+Total frames: 23204
+Frames assigned after merge: 23204
+Frames dropped: 0
+
+Episode: friends_s05e15a
+Frame range: 1 to 19775
+Scene coverage: 1 to 19775
+Total frames: 19775
+Frames assigned after merge: 19775
+Frames dropped: 0
+
+Episode: friends_s05e15b
+Frame range: 1 to 21299
+Scene coverage: 1 to 21299
+Total frames: 21299
+Frames assigned after merge: 21299
+Frames dropped: 0
+
+Episode: friends_s05e16a
+Frame range: 1 to 21651
+Scene coverage: 1 to 21651
+Total frames: 21651
+Frames assigned after merge: 21651
+Frames dropped: 0
+
+Episode: friends_s05e16b
+Frame range: 1 to 23174
+Scene coverage: 1 to 23174
+Total frames: 23174
+Frames assigned after merge: 23174
+Frames dropped: 0
+
+Episode: friends_s05e17a
+Frame range: 1 to 20185
+Scene coverage: 1 to 20185
+Total frames: 20185
+Frames assigned after merge: 20185
+Frames dropped: 0
+
+Episode: friends_s05e17b
+Frame range: 1 to 21709
+Scene coverage: 1 to 21709
+Total frames: 21709
+Frames assigned after merge: 21709
+Frames dropped: 0
+
+Episode: friends_s05e18a
+Frame range: 1 to 22365
+Scene coverage: 1 to 22365
+Total frames: 22365
+Frames assigned after merge: 22365
+Frames dropped: 0
+
+Episode: friends_s05e18b
+Frame range: 1 to 23889
+Scene coverage: 1 to 23889
+Total frames: 23889
+Frames assigned after merge: 23889
+Frames dropped: 0
+
+Episode: friends_s05e19a
+Frame range: 1 to 19922
+Scene coverage: 1 to 19922
+Total frames: 19922
+Frames assigned after merge: 19922
+Frames dropped: 0
+
+Episode: friends_s05e19b
+Frame range: 1 to 21446
+Scene coverage: 1 to 21446
+Total frames: 21446
+Frames assigned after merge: 21446
+Frames dropped: 0
+
+Episode: friends_s05e20a
+Frame range: 1 to 20334
+Scene coverage: 1 to 20334
+Total frames: 20334
+Frames assigned after merge: 20334
+Frames dropped: 0
+
+Episode: friends_s05e20b
+Frame range: 1 to 21857
+Scene coverage: 1 to 21857
+Total frames: 21857
+Frames assigned after merge: 21857
+Frames dropped: 0
+
+Episode: friends_s05e21a
+Frame range: 1 to 19826
+Scene coverage: 1 to 19826
+Total frames: 19826
+Frames assigned after merge: 19826
+Frames dropped: 0
+
+Episode: friends_s05e21b
+Frame range: 1 to 21350
+Scene coverage: 1 to 21350
+Total frames: 21350
+Frames assigned after merge: 21350
+Frames dropped: 0
+
+Episode: friends_s05e22a
+Frame range: 1 to 20085
+Scene coverage: 1 to 20085
+Total frames: 20085
+Frames assigned after merge: 20085
+Frames dropped: 0
+
+Episode: friends_s05e22b
+Frame range: 1 to 21609
+Scene coverage: 1 to 21609
+Total frames: 21609
+Frames assigned after merge: 21609
+Frames dropped: 0
+
+Episode: friends_s05e23a
+Frame range: 1 to 20267
+Scene coverage: 1 to 20267
+Total frames: 20267
+Frames assigned after merge: 20267
+Frames dropped: 0
+
+Episode: friends_s05e23b
+Frame range: 1 to 20448
+Scene coverage: 1 to 20448
+Total frames: 20448
+Frames assigned after merge: 20448
+Frames dropped: 0
+
+Episode: friends_s05e23c
+Frame range: 1 to 20447
+Scene coverage: nan to nan
+Total frames: 20447
+Frames assigned after merge: 0
+Frames dropped: 20447
+
+Episode: friends_s05e23d
+Frame range: 1 to 21791
+Scene coverage: nan to nan
+Total frames: 21791
+Frames assigned after merge: 0
+Frames dropped: 21791
+
+Episode: friends_s06e01a
+Frame range: 1 to 20766
+Scene coverage: 1 to 20766
+Total frames: 20766
+Frames assigned after merge: 20766
+Frames dropped: 0
+
+Episode: friends_s06e01b
+Frame range: 1 to 22287
+Scene coverage: 1 to 22287
+Total frames: 22287
+Frames assigned after merge: 22287
+Frames dropped: 0
+
+Episode: friends_s06e02a
+Frame range: 1 to 20211
+Scene coverage: 1 to 20211
+Total frames: 20211
+Frames assigned after merge: 20211
+Frames dropped: 0
+
+Episode: friends_s06e02b
+Frame range: 1 to 21732
+Scene coverage: 1 to 21732
+Total frames: 21732
+Frames assigned after merge: 21732
+Frames dropped: 0
+
+Episode: friends_s06e03a
+Frame range: 1 to 19581
+Scene coverage: 1 to 19581
+Total frames: 19581
+Frames assigned after merge: 19581
+Frames dropped: 0
+
+Episode: friends_s06e03b
+Frame range: 1 to 21102
+Scene coverage: 1 to 21102
+Total frames: 21102
+Frames assigned after merge: 21102
+Frames dropped: 0
+
+Episode: friends_s06e04a
+Frame range: 1 to 19626
+Scene coverage: 1 to 19626
+Total frames: 19626
+Frames assigned after merge: 19626
+Frames dropped: 0
+
+Episode: friends_s06e04b
+Frame range: 1 to 21147
+Scene coverage: 1 to 21147
+Total frames: 21147
+Frames assigned after merge: 21147
+Frames dropped: 0
+
+Episode: friends_s06e05a
+Frame range: 1 to 20151
+Scene coverage: 1 to 20151
+Total frames: 20151
+Frames assigned after merge: 20151
+Frames dropped: 0
+
+Episode: friends_s06e05b
+Frame range: 1 to 21672
+Scene coverage: 1 to 21672
+Total frames: 21672
+Frames assigned after merge: 21672
+Frames dropped: 0
+
+Episode: friends_s06e06a
+Frame range: 1 to 19806
+Scene coverage: 1 to 19806
+Total frames: 19806
+Frames assigned after merge: 19806
+Frames dropped: 0
+
+Episode: friends_s06e06b
+Frame range: 1 to 21327
+Scene coverage: 1 to 21327
+Total frames: 21327
+Frames assigned after merge: 21327
+Frames dropped: 0
+
+Episode: friends_s06e07a
+Frame range: 1 to 19866
+Scene coverage: 1 to 19866
+Total frames: 19866
+Frames assigned after merge: 19866
+Frames dropped: 0
+
+Episode: friends_s06e07b
+Frame range: 1 to 21387
+Scene coverage: 1 to 21387
+Total frames: 21387
+Frames assigned after merge: 21387
+Frames dropped: 0
+
+Episode: friends_s06e08a
+Frame range: 1 to 19566
+Scene coverage: 1 to 19566
+Total frames: 19566
+Frames assigned after merge: 19566
+Frames dropped: 0
+
+Episode: friends_s06e08b
+Frame range: 1 to 21087
+Scene coverage: 1 to 21087
+Total frames: 21087
+Frames assigned after merge: 21087
+Frames dropped: 0
+
+Episode: friends_s06e09a
+Frame range: 1 to 22480
+Scene coverage: 1 to 22480
+Total frames: 22480
+Frames assigned after merge: 22480
+Frames dropped: 0
+
+Episode: friends_s06e09b
+Frame range: 1 to 24002
+Scene coverage: 1 to 24002
+Total frames: 24002
+Frames assigned after merge: 24002
+Frames dropped: 0
+
+Episode: friends_s06e10a
+Frame range: 1 to 20781
+Scene coverage: 1 to 20781
+Total frames: 20781
+Frames assigned after merge: 20781
+Frames dropped: 0
+
+Episode: friends_s06e10b
+Frame range: 1 to 22303
+Scene coverage: 1 to 22303
+Total frames: 22303
+Frames assigned after merge: 22303
+Frames dropped: 0
+
+Episode: friends_s06e11a
+Frame range: 1 to 20096
+Scene coverage: 1 to 20096
+Total frames: 20096
+Frames assigned after merge: 20096
+Frames dropped: 0
+
+Episode: friends_s06e11b
+Frame range: 1 to 21617
+Scene coverage: 1 to 21617
+Total frames: 21617
+Frames assigned after merge: 21617
+Frames dropped: 0
+
+Episode: friends_s06e12a
+Frame range: 1 to 19442
+Scene coverage: 1 to 19442
+Total frames: 19442
+Frames assigned after merge: 19442
+Frames dropped: 0
+
+Episode: friends_s06e12b
+Frame range: 1 to 20963
+Scene coverage: 1 to 20963
+Total frames: 20963
+Frames assigned after merge: 20963
+Frames dropped: 0
+
+Episode: friends_s06e13a
+Frame range: 1 to 20955
+Scene coverage: 1 to 20955
+Total frames: 20955
+Frames assigned after merge: 20955
+Frames dropped: 0
+
+Episode: friends_s06e13b
+Frame range: 1 to 22477
+Scene coverage: 1 to 22477
+Total frames: 22477
+Frames assigned after merge: 22477
+Frames dropped: 0
+
+Episode: friends_s06e14a
+Frame range: 1 to 20565
+Scene coverage: 1 to 20565
+Total frames: 20565
+Frames assigned after merge: 20565
+Frames dropped: 0
+
+Episode: friends_s06e14b
+Frame range: 1 to 22087
+Scene coverage: 1 to 22087
+Total frames: 22087
+Frames assigned after merge: 22087
+Frames dropped: 0
+
+Episode: friends_s06e15a
+Frame range: 1 to 20353
+Scene coverage: 1 to 20353
+Total frames: 20353
+Frames assigned after merge: 20353
+Frames dropped: 0
+
+Episode: friends_s06e15b
+Frame range: 1 to 20534
+Scene coverage: 1 to 20534
+Total frames: 20534
+Frames assigned after merge: 20534
+Frames dropped: 0
+
+Episode: friends_s06e15c
+Frame range: 1 to 20533
+Scene coverage: nan to nan
+Total frames: 20533
+Frames assigned after merge: 0
+Frames dropped: 20533
+
+Episode: friends_s06e15d
+Frame range: 1 to 21873
+Scene coverage: nan to nan
+Total frames: 21873
+Frames assigned after merge: 0
+Frames dropped: 21873
+
+Episode: friends_s06e17a
+Frame range: 1 to 19102
+Scene coverage: 1 to 19102
+Total frames: 19102
+Frames assigned after merge: 19102
+Frames dropped: 0
+
+Episode: friends_s06e17b
+Frame range: 1 to 20623
+Scene coverage: 1 to 20623
+Total frames: 20623
+Frames assigned after merge: 20623
+Frames dropped: 0
+
+Episode: friends_s06e18a
+Frame range: 1 to 19434
+Scene coverage: 1 to 19434
+Total frames: 19434
+Frames assigned after merge: 19434
+Frames dropped: 0
+
+Episode: friends_s06e18b
+Frame range: 1 to 20956
+Scene coverage: 1 to 20956
+Total frames: 20956
+Frames assigned after merge: 20956
+Frames dropped: 0
+
+Episode: friends_s06e19a
+Frame range: 1 to 19365
+Scene coverage: 1 to 19365
+Total frames: 19365
+Frames assigned after merge: 19365
+Frames dropped: 0
+
+Episode: friends_s06e19b
+Frame range: 1 to 20887
+Scene coverage: 1 to 20887
+Total frames: 20887
+Frames assigned after merge: 20887
+Frames dropped: 0
+
+Episode: friends_s06e20a
+Frame range: 1 to 19226
+Scene coverage: 1 to 19226
+Total frames: 19226
+Frames assigned after merge: 19226
+Frames dropped: 0
+
+Episode: friends_s06e20b
+Frame range: 1 to 20747
+Scene coverage: 1 to 20747
+Total frames: 20747
+Frames assigned after merge: 20747
+Frames dropped: 0
+
+Episode: friends_s06e21a
+Frame range: 1 to 20531
+Scene coverage: 1 to 20531
+Total frames: 20531
+Frames assigned after merge: 20531
+Frames dropped: 0
+
+Episode: friends_s06e21b
+Frame range: 1 to 22052
+Scene coverage: 1 to 22052
+Total frames: 22052
+Frames assigned after merge: 22052
+Frames dropped: 0
+
+Episode: friends_s06e22a
+Frame range: 1 to 20159
+Scene coverage: 1 to 20159
+Total frames: 20159
+Frames assigned after merge: 20159
+Frames dropped: 0
+
+Episode: friends_s06e22b
+Frame range: 1 to 21681
+Scene coverage: 1 to 21681
+Total frames: 21681
+Frames assigned after merge: 21681
+Frames dropped: 0
+
+Episode: friends_s06e23a
+Frame range: 1 to 21701
+Scene coverage: 1 to 21701
+Total frames: 21701
+Frames assigned after merge: 21701
+Frames dropped: 0
+
+Episode: friends_s06e23b
+Frame range: 1 to 23222
+Scene coverage: 1 to 23222
+Total frames: 23222
+Frames assigned after merge: 23222
+Frames dropped: 0
+
+Episode: friends_s06e24a
+Frame range: 1 to 20381
+Scene coverage: 1 to 20381
+Total frames: 20381
+Frames assigned after merge: 20381
+Frames dropped: 0
+
+Episode: friends_s06e24b
+Frame range: 1 to 20562
+Scene coverage: 1 to 20562
+Total frames: 20562
+Frames assigned after merge: 20562
+Frames dropped: 0
+
+Episode: friends_s06e24c
+Frame range: 1 to 20561
+Scene coverage: nan to nan
+Total frames: 20561
+Frames assigned after merge: 0
+Frames dropped: 20561
+
+Episode: friends_s06e24d
+Frame range: 1 to 21901
+Scene coverage: nan to nan
+Total frames: 21901
+Frames assigned after merge: 0
+Frames dropped: 21901
+
+Episode: friends_s07e01a
+Frame range: 1 to 20526
+Scene coverage: nan to nan
+Total frames: 20526
+Frames assigned after merge: 0
+Frames dropped: 20526
+
+Episode: friends_s07e01b
+Frame range: 1 to 22049
+Scene coverage: nan to nan
+Total frames: 22049
+Frames assigned after merge: 0
+Frames dropped: 22049
+
+Episode: friends_s07e02a
+Frame range: 1 to 21960
+Scene coverage: nan to nan
+Total frames: 21960
+Frames assigned after merge: 0
+Frames dropped: 21960
+
+Episode: friends_s07e02b
+Frame range: 1 to 23483
+Scene coverage: nan to nan
+Total frames: 23483
+Frames assigned after merge: 0
+Frames dropped: 23483
+
+Episode: friends_s07e03a
+Frame range: 1 to 18625
+Scene coverage: nan to nan
+Total frames: 18625
+Frames assigned after merge: 0
+Frames dropped: 18625
+
+Episode: friends_s07e03b
+Frame range: 1 to 20149
+Scene coverage: nan to nan
+Total frames: 20149
+Frames assigned after merge: 0
+Frames dropped: 20149
+
+Episode: friends_s07e04a
+Frame range: 1 to 19986
+Scene coverage: nan to nan
+Total frames: 19986
+Frames assigned after merge: 0
+Frames dropped: 19986
+
+Episode: friends_s07e04b
+Frame range: 1 to 21509
+Scene coverage: nan to nan
+Total frames: 21509
+Frames assigned after merge: 0
+Frames dropped: 21509
+
+Episode: friends_s07e05a
+Frame range: 1 to 20240
+Scene coverage: nan to nan
+Total frames: 20240
+Frames assigned after merge: 0
+Frames dropped: 20240
+
+Episode: friends_s07e05b
+Frame range: 1 to 21764
+Scene coverage: nan to nan
+Total frames: 21764
+Frames assigned after merge: 0
+Frames dropped: 21764
+
+Episode: friends_s07e06a
+Frame range: 1 to 21343
+Scene coverage: nan to nan
+Total frames: 21343
+Frames assigned after merge: 0
+Frames dropped: 21343
+
+Episode: friends_s07e06b
+Frame range: 1 to 22867
+Scene coverage: nan to nan
+Total frames: 22867
+Frames assigned after merge: 0
+Frames dropped: 22867
+
+Episode: friends_s07e07a
+Frame range: 1 to 21101
+Scene coverage: nan to nan
+Total frames: 21101
+Frames assigned after merge: 0
+Frames dropped: 21101
+
+Episode: friends_s07e07b
+Frame range: 1 to 22624
+Scene coverage: nan to nan
+Total frames: 22624
+Frames assigned after merge: 0
+Frames dropped: 22624
+
+Episode: friends_s07e08a
+Frame range: 1 to 21171
+Scene coverage: nan to nan
+Total frames: 21171
+Frames assigned after merge: 0
+Frames dropped: 21171
+
+Episode: friends_s07e08b
+Frame range: 1 to 22694
+Scene coverage: nan to nan
+Total frames: 22694
+Frames assigned after merge: 0
+Frames dropped: 22694
+
+Episode: friends_s07e09a
+Frame range: 1 to 20106
+Scene coverage: nan to nan
+Total frames: 20106
+Frames assigned after merge: 0
+Frames dropped: 20106
+
+Episode: friends_s07e09b
+Frame range: 1 to 21629
+Scene coverage: nan to nan
+Total frames: 21629
+Frames assigned after merge: 0
+Frames dropped: 21629
+
+Episode: friends_s07e10a
+Frame range: 1 to 20496
+Scene coverage: nan to nan
+Total frames: 20496
+Frames assigned after merge: 0
+Frames dropped: 20496
+
+Episode: friends_s07e10b
+Frame range: 1 to 22019
+Scene coverage: nan to nan
+Total frames: 22019
+Frames assigned after merge: 0
+Frames dropped: 22019
+
+Episode: friends_s07e11a
+Frame range: 1 to 20736
+Scene coverage: nan to nan
+Total frames: 20736
+Frames assigned after merge: 0
+Frames dropped: 20736
+
+Episode: friends_s07e11b
+Frame range: 1 to 22259
+Scene coverage: nan to nan
+Total frames: 22259
+Frames assigned after merge: 0
+Frames dropped: 22259
+
+Episode: friends_s07e12a
+Frame range: 1 to 20180
+Scene coverage: nan to nan
+Total frames: 20180
+Frames assigned after merge: 0
+Frames dropped: 20180
+
+Episode: friends_s07e12b
+Frame range: 1 to 21704
+Scene coverage: nan to nan
+Total frames: 21704
+Frames assigned after merge: 0
+Frames dropped: 21704
+
+Episode: friends_s07e13a
+Frame range: 1 to 24073
+Scene coverage: nan to nan
+Total frames: 24073
+Frames assigned after merge: 0
+Frames dropped: 24073
+
+Episode: friends_s07e13b
+Frame range: 1 to 25597
+Scene coverage: nan to nan
+Total frames: 25597
+Frames assigned after merge: 0
+Frames dropped: 25597
+
+Episode: friends_s07e14a
+Frame range: 1 to 20824
+Scene coverage: nan to nan
+Total frames: 20824
+Frames assigned after merge: 0
+Frames dropped: 20824
+
+Episode: friends_s07e14b
+Frame range: 1 to 22347
+Scene coverage: nan to nan
+Total frames: 22347
+Frames assigned after merge: 0
+Frames dropped: 22347
+
+Episode: friends_s07e15a
+Frame range: 1 to 25280
+Scene coverage: nan to nan
+Total frames: 25280
+Frames assigned after merge: 0
+Frames dropped: 25280
+
+Episode: friends_s07e15b
+Frame range: 1 to 26804
+Scene coverage: nan to nan
+Total frames: 26804
+Frames assigned after merge: 0
+Frames dropped: 26804
+
+Episode: friends_s07e16a
+Frame range: 1 to 17750
+Scene coverage: nan to nan
+Total frames: 17750
+Frames assigned after merge: 0
+Frames dropped: 17750
+
+Episode: friends_s07e16b
+Frame range: 1 to 17930
+Scene coverage: nan to nan
+Total frames: 17930
+Frames assigned after merge: 0
+Frames dropped: 17930
+
+Episode: friends_s07e16c
+Frame range: 1 to 19273
+Scene coverage: nan to nan
+Total frames: 19273
+Frames assigned after merge: 0
+Frames dropped: 19273
+
+Episode: friends_s07e17a
+Frame range: 1 to 19332
+Scene coverage: nan to nan
+Total frames: 19332
+Frames assigned after merge: 0
+Frames dropped: 19332
+
+Episode: friends_s07e17b
+Frame range: 1 to 20855
+Scene coverage: nan to nan
+Total frames: 20855
+Frames assigned after merge: 0
+Frames dropped: 20855
+
+Episode: friends_s07e18a
+Frame range: 1 to 21298
+Scene coverage: nan to nan
+Total frames: 21298
+Frames assigned after merge: 0
+Frames dropped: 21298
+
+Episode: friends_s07e18b
+Frame range: 1 to 22822
+Scene coverage: nan to nan
+Total frames: 22822
+Frames assigned after merge: 0
+Frames dropped: 22822
+
+Episode: friends_s07e19a
+Frame range: 1 to 19506
+Scene coverage: nan to nan
+Total frames: 19506
+Frames assigned after merge: 0
+Frames dropped: 19506
+
+Episode: friends_s07e19b
+Frame range: 1 to 21029
+Scene coverage: nan to nan
+Total frames: 21029
+Frames assigned after merge: 0
+Frames dropped: 21029
+
+Episode: friends_s07e20a
+Frame range: 1 to 20267
+Scene coverage: nan to nan
+Total frames: 20267
+Frames assigned after merge: 0
+Frames dropped: 20267
+
+Episode: friends_s07e20b
+Frame range: 1 to 21790
+Scene coverage: nan to nan
+Total frames: 21790
+Frames assigned after merge: 0
+Frames dropped: 21790
+
+Episode: friends_s07e21a
+Frame range: 1 to 19160
+Scene coverage: nan to nan
+Total frames: 19160
+Frames assigned after merge: 0
+Frames dropped: 19160
+
+Episode: friends_s07e21b
+Frame range: 1 to 20684
+Scene coverage: nan to nan
+Total frames: 20684
+Frames assigned after merge: 0
+Frames dropped: 20684
+
+Episode: friends_s07e22a
+Frame range: 1 to 21035
+Scene coverage: nan to nan
+Total frames: 21035
+Frames assigned after merge: 0
+Frames dropped: 21035
+
+Episode: friends_s07e22b
+Frame range: 1 to 22559
+Scene coverage: nan to nan
+Total frames: 22559
+Frames assigned after merge: 0
+Frames dropped: 22559
+
+Episode: friends_s07e23a
+Frame range: 1 to 21456
+Scene coverage: nan to nan
+Total frames: 21456
+Frames assigned after merge: 0
+Frames dropped: 21456
+
+Episode: friends_s07e23b
+Frame range: 1 to 21637
+Scene coverage: nan to nan
+Total frames: 21637
+Frames assigned after merge: 0
+Frames dropped: 21637
+
+Episode: friends_s07e23c
+Frame range: 1 to 21637
+Scene coverage: nan to nan
+Total frames: 21637
+Frames assigned after merge: 0
+Frames dropped: 21637
+
+Episode: friends_s07e23d
+Frame range: 1 to 22980
+Scene coverage: nan to nan
+Total frames: 22980
+Frames assigned after merge: 0
+Frames dropped: 22980
+

@@ -1,6 +1,10 @@
 format: jb-book
 root: paper.md
 chapters:
+  - file: content/explore_saliency_peak-Copy1
+  - file: content/explore_editing-Copy1
+  - file: content/explore_manual_seg-Copy1
+  - file: content/combined_peak_scenes-Copy1
   - file: content/group_manual_seg-Copy1
     title: "🕰️ ALL ABOUT DURATIONS THE MANUAL SEGMENTATION DATA 🕰️"
   - file: content/group_editing-Copy1
